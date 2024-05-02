@@ -1,3 +1,14 @@
+
+![Screenshot (13)](https://github.com/sigma-avi/Weather_Report/assets/134030689/091756be-fa08-4b7c-a1a0-28e71892d612)
+![Screenshot (14)](https://github.com/sigma-avi/Weather_Report/assets/134030689/67dd59a1-1f06-479c-8e23-f282165f75f6)
+
+![Screenshot (15)](https://github.com/sigma-avi/Weather_Report/assets/134030689/01a8d581-8316-416f-84c9-5f406bb45599)
+
+![Screenshot (16)](https://github.com/sigma-avi/Weather_Report/assets/134030689/f6e3e9f7-e29b-4154-82d3-3c3d5710a66f)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
